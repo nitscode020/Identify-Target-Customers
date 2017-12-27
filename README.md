@@ -2,7 +2,7 @@
 
 
 Identifying taregeted customers of a bank who might be interested in purchasing Certificate of Deposit (CD). 
-Marketing team of the bank can use this information to contact targeted customers and increase conversion rate.
+Marketing team of the bank will use this information to contact targeted customers and increase conversion rate.
 
 Steps:
 
